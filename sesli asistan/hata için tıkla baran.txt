@@ -1,0 +1,3 @@
+Bende de vardı. Şöyle çözdüm.
+Önce "pip unstall playsound" diyerek kaldırdım.
+Sonra "pip install playsound==1.2.2" olarak tekrar yükledim. Ve düzeldi. Kaynak:
